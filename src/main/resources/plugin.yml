@@ -1,0 +1,6 @@
+name: RePokeFJ
+version: '1.0'
+main: io.github.swagree.repokefj.Main
+commands:
+  rfj:
+    description: ok;
